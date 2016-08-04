@@ -1,2 +1,3 @@
 i am learning github
 add Add file contents to the index
+pull - Get remote sql content
