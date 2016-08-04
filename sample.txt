@@ -1,3 +1,4 @@
 i am learning github
 add Add file contents to the index
 commit - Record changes to the repository
+pull - Get remote sql content
